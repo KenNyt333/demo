@@ -1,0 +1,2 @@
+with open('/c:/Users/mclea/Desktop/GIT/demo/text2.txt', 'a') as file:
+    file.write("Your content goes here")
